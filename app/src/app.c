@@ -19,7 +19,7 @@ int main(int argc, char **argv) {
 
   return 0;
 }
-int liba_byebye(){
+int liba_goodbye()
 printf("coucou");
 return 0;
 
